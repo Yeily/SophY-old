@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SophY-API", "SophY-API\SophY-API.csproj", "{F40095DE-81E0-4A49-90F0-A356C7DFCD20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SophY.ConexionBD", "SophY.ConexionBD\SophY.ConexionBD.csproj", "{A4986909-9C9D-4D3E-B82C-5CE6567735B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{F40095DE-81E0-4A49-90F0-A356C7DFCD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F40095DE-81E0-4A49-90F0-A356C7DFCD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F40095DE-81E0-4A49-90F0-A356C7DFCD20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4986909-9C9D-4D3E-B82C-5CE6567735B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4986909-9C9D-4D3E-B82C-5CE6567735B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4986909-9C9D-4D3E-B82C-5CE6567735B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4986909-9C9D-4D3E-B82C-5CE6567735B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
