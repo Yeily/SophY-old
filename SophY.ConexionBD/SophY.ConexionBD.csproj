@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="System.Data.Odbc" Version="4.7.0" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
     <PackageReference Include="System.Data.OleDb" Version="4.7.1" />
     <PackageReference Include="Microsoft.Data.Sqlite" Version="3.1.5" />
   </ItemGroup>
